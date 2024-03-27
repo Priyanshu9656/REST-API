@@ -1,0 +1,30 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone10",
+        "price":1154,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":14,
+        "featured":true,
+        "company":"samsung"
+    },
+    {
+        "name":"table",
+        "price":1,
+        "company":"apple"
+    },
+    {
+        "name":"chair",
+        "price":1111,
+        "company":"mi"
+    }
+]
